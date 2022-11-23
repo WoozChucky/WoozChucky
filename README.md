@@ -132,10 +132,3 @@ I also have some passions outside the world programming, such as cryptocurrencie
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width=40 height=40> | 2 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40> | 2 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" width=40 height=40 /> | 1 years |
-
----
-
-## Featured Projects
-
-- [Pau](https://github.com/woozchucky/pau)
-- [CPP WebServer EventDriven](https://github.com/WoozChucky/cpp-webserver-eventdriven)
