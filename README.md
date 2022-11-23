@@ -35,9 +35,7 @@
 ---
 
 # About Me
-I'm a fullstack web developer. I program web apps with Angular or React for frontend and NestJS / Express (depending on size of app) for backend. I make mobile apps with Flutter.
-
-I take care of the entire process of creating an application, starting with design, then planning, followed by development and testing, and finally deployment.
+TODO
 
 ---
 
@@ -47,19 +45,19 @@ I take care of the entire process of creating an application, starting with desi
 <div style="margin: 2rem 0;">
     <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Development Tools</span>
     <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width=40 height=40 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width=40 height=40 />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" width=40 height=40 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width=40 height=40 />
     </div>
 </div>
 
@@ -67,18 +65,17 @@ I take care of the entire process of creating an application, starting with desi
 <div style="margin: 2rem 0;">
     <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Frameworks / Toolkits</span>
     <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain-wordmark.svg" width=40 height=40 title="NestJS"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" width=40 height=40></img></div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width=40 height=40></img></div>
 </div>
 
 <!-- Cloud Providers -->
 <div style="margin: 2rem 0;">
     <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Cloud Providers</span>
     <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width=40 height=40></img>
     </div>
 </div>
 
@@ -86,20 +83,20 @@ I take care of the entire process of creating an application, starting with desi
 <div style="margin: 2rem 0;">
     <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Programming, Markup, and Other Languages</span>
     <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" width=40 height=40></img></div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width=40 height=40></img></div>
 </div>
 
 <!-- Libraries / Other -->
 <div style="margin: 2rem 0;">
     <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Libraries, Utilities, and Standards</span>
     <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width=40 height=40 title="Material UI"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width=40 height=40></img>
     </div>
 </div>
 
@@ -107,8 +104,8 @@ I take care of the entire process of creating an application, starting with desi
 <div style="margin: 2rem 0;">
     <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Browsers</span>
     <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firefox/firefox-original-wordmark.svg" width=40 height=40></img></div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" width=40 height=40></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg" width=40 height=40></img></div>
 </div>
 </div>
 
