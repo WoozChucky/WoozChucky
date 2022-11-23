@@ -1,3 +1,17 @@
+# About Me
+My name is Nuno, I'm 28 and Senior Software Engineer that works on a broad range of technologies and areas with emphasys on __Backend Development__, __DevOps Engineering__, and __Software Architecture__.
+
+From a young age (about 12 years old) I started to develop my curiosity about computers, how they work internally, how everything comes together, and that got me to learn programming.
+
+Started out professionally has a mobile developer, then moved to backend developer, never leaving the backend area, I also started to develop interest (and learning more) in DevOps, Cloud Infrastructure itself, than gradually overtime evolved to Software Architecture with focus on microservices cloud native eventdriven systems.
+
+Currently at my work I work on the 3 previously mentioned areas, so I consider myself a jack of all trades, master of none.
+
+On my free time I like to explore new languages/frameworks by reading tech blogs, or programming something on GitHub.
+I also have some passions outside the world programming, such as cryptocurrencies, gaming, camping and traveling.
+
+---
+
 <div align="center">
 
 <div id="badges" style="margin: .5rem;">
@@ -28,20 +42,6 @@
 </div>
 
 </div>
-
----
-
-# About Me
-My name is Nuno, I'm 28 and Senior Software Engineer that works on a broad range of technologies and areas with emphasys on __Backend Development__, __DevOps Engineering__, and __Software Architecture__.
-
-From a young age (about 12 years old) I started to develop my curiosity about computers, how they work internally, how everything comes together, and that got me to learn programming.
-
-Started out professionally has a mobile developer, then moved to backend developer, never leaving the backend area, I also started to develop interest (and learning more) in DevOps, Cloud Infrastructure itself, than gradually overtime evolved to Software Architecture with focus on microservices cloud native eventdriven systems.
-
-Currently at my work I work on the 3 previously mentioned areas, so I consider myself a jack of all trades, master of none.
-
-On my free time I like to explore new languages/frameworks by reading tech blogs, or programming something on GitHub.
-I also have some passions outside the world programming, such as cryptocurrencies, gaming, camping and traveling.
 
 ---
 
