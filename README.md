@@ -120,7 +120,7 @@ I also have some passions outside the world programming, such as cryptocurrencie
 
 <!-- Libraries / Other -->
 <div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Libraries, Utilities, and Standards</span>
+    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Databases, Monitoring, and Standards</span>
 </div>
 
 |  | Experience |
