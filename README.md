@@ -27,7 +27,7 @@ I also have some passions outside the world programming, such as cryptocurrencie
 
 <div style="margin-top: 2rem">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=woozchucky&theme=dark&date_format=%5BY.%5Dn.j&fire=46DD1E&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WoozChucky)](https://git.io/streak-stats)
 </div>
 
 <div style="margin-top: 2rem">
