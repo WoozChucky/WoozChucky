@@ -1,5 +1,5 @@
 # About Me
-My name is Nuno, I'm 28 and Senior Software Engineer that works on a broad range of technologies and areas with emphasys on __Backend Development__, __DevOps Engineering__, and __Software Architecture__.
+My name is Nuno, I'm 29 and Senior Software Engineer that works on a broad range of technologies and areas with emphasys on __Backend Development__, __DevOps Engineering__, and __Software Architecture__.
 
 From a young age (about 12 years old) I started to develop my curiosity about computers, how they work internally, how everything comes together, and that got me to learn programming.
 
