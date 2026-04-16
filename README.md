@@ -1,5 +1,5 @@
 # About Me
-My name is Nuno, I'm 29 and Senior Software Engineer that works on a broad range of technologies and areas with emphasys on __Backend Development__, __DevOps Engineering__, and __Software Architecture__.
+My name is Nuno, I'm 30 and Senior Software Engineer that works on a broad range of technologies and areas with emphasys on __Backend Development__, __DevOps Engineering__, and __Software Architecture__.
 
 From a young age (about 12 years old) I started to develop my curiosity about computers, how they work internally, how everything comes together, and that got me to learn programming.
 
@@ -54,18 +54,14 @@ I also have some passions outside the world programming, such as cryptocurrencie
 
 |  | Experience |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width=40 height=40 /> | 16 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width=40 height=40 /> | 18 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=40 height=40 /> | 10 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width=40 height=40 /> | 7 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width=40 height=40 /> |  8 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width=40 height=40 /> |  10 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width=40 height=40 /> | 12 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=40 height=40 /> | 6 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width=40 height=40 /> | 6 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" width=40 height=40 /> | 5 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width=40 height=40 /> | 4 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width=40 height=40 /> | 2 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width=40 height=40 /> | 4 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width=40 height=40 /> | 7 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width=40 height=40 /> | 8 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width=40 height=40 /> | 4 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width=40 height=40 /> | 6 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width=40 height=40 /> | 4 years |
 
 <!-- Frameworks -->
@@ -96,8 +92,8 @@ I also have some passions outside the world programming, such as cryptocurrencie
 
 |  | Experience |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width=40 height=40 /> | 6 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40 /> | 2 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width=40 height=40 /> | 8 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40 /> | 4 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width=40 height=40 /> | 2 years |
 
 <!-- Low-Level & Langs -->
@@ -107,7 +103,7 @@ I also have some passions outside the world programming, such as cryptocurrencie
 
 |  | Experience |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width=40 height=40 /> | 12 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width=40 height=40 /> | 14 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=40 height=40 /> | 8 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=40 height=40 /> | 4 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width=40 height=40 /> | 8 years |
@@ -116,7 +112,6 @@ I also have some passions outside the world programming, such as cryptocurrencie
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40 /> | 7 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" width=40 height=40 /> | 2 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" width=40 height=40 /> | 2 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width=40 height=40 /> | 4 years |
 
 <!-- Libraries / Other -->
 <div style="margin: 2rem 0;">
@@ -128,7 +123,6 @@ I also have some passions outside the world programming, such as cryptocurrencie
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width=40 height=40 /> | 10 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width=40 height=40 /> | 8 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original-wordmark.svg" width=40 height=40> | 10 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=40 height=40> | 4 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width=40 height=40> | 2 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40> | 2 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" width=40 height=40 /> | 1 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width=40 height=40> | 8 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width=40 height=40> | 4 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40> | 3 years |
