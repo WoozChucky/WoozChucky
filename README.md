@@ -72,16 +72,12 @@ I also have some passions outside the world programming, such as cryptocurrencie
 
 |  | Experience |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width=40 height=40 /> | 12 years |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width=40 height=40 /> | 14 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width=40 height=40 /> | 6 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width=40 height=40 /> | 4 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width=40 height=40 /> |  4 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" width=40 height=40 /> | 7 years |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width=40 height=40 /> | 6 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width=40 height=40 /> | 3 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width=40 height=40 /> | 3 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" width=40 height=40 /> | 3 years |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original-wordmark.svg" width=40 height=40 /> | 2 years |
 
 
 <!-- Cloud Providers -->
